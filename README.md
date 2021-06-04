@@ -1,4 +1,4 @@
-A library for Dart developers.
+A library for Dart developers to log command line apps events and recording it to a file.
 
 ## Usage
 
@@ -8,7 +8,7 @@ A simple usage example:
 import 'package:elogger/elogger.dart';
 
 main() {
-  var awesome = new Awesome();
+  Elogger.init('Logger', printLogs: true, saveLogsToFile: true);
 }
 ```
 
@@ -17,4 +17,4 @@ main() {
 Please file feature requests and bugs at the [issue tracker][tracker].
 
 [tracker]: http://example.com/issues/replaceme
-# Dart-Elogger
+# Dart-Elogger - Acanxa Devs Team
