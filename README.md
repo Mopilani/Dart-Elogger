@@ -16,5 +16,5 @@ main() {
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://example.com/issues/replaceme
+[tracker]: https://github.com/Mopilani/Dart-Elogger/issues
 # Dart-Elogger - Acanxa Devs Team
